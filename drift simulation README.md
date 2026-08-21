@@ -55,3 +55,6 @@ python run_drift.py
   output:
     report_path: "normal_drift_results.json"
 📊 Evaluation OutputSimulation executions output JSON reports containing:PSI Checkpoints: Evaluated at feature drift, target drift, data quality, and post-pipeline stages.SLA Validation: Status check determining whether drift metrics met expected severity thresholds.Schema Warnings: Structural or type mismatches encountered during pipeline execution.
+
+
+
