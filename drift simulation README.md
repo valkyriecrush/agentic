@@ -63,7 +63,7 @@ text
 
 ```bash
 git clone <repository-url>
-cd drift_simulator
+
 
 python3 -m venv .venv
 source .venv/bin/activate
